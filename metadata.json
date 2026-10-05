@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Roasters | Artisanal Coffee & Bakery",
+  "description": "Specialty micro-lot coffee roaster, espresso bar, and artisanal kitchen. Order online for pickup, explore single-origin beans, and brew with precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
